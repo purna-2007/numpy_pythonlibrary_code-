@@ -24,7 +24,4 @@ It is designed to help understand numerical computing and array operations in Py
 ##  Files Included
 - 'numpy.ipynb' – NumPy practice and examples
 
-##  Future Improvements
-- Add advanced NumPy examples
-- Include practice problems
-- Add comparison with Python lists
+
