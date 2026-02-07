@@ -22,6 +22,6 @@ It is designed to help understand numerical computing and array operations in Py
 3. Run the cells step by step to understand NumPy concepts
 
 ##  Files Included
-- 'numpy.ipynb' – NumPy practice and examples
+- 'numpy.ipynb' – NumPy practice codes and examples.
 
 
